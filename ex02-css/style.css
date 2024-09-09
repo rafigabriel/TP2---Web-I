@@ -1,0 +1,46 @@
+body{
+    width: 500px;
+    color: #231900;
+    padding: 30px;
+}
+
+h1{
+    font-size: 3.5em;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: 800;
+}
+#secao{
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+#link{
+    font-family: "Crimson Text", sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    color: #231900;
+    text-decoration: underline;
+    text-decoration-color: #FFCC00;
+    text-decoration-thickness:4px ;
+    text-underline-offset: 0px;
+}
+
+p{
+    font-family: "Crimson Text", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.4em;
+}
+
+button{
+    background-color: #FFCC00;
+    color: #231900;
+    width: 140px;
+    height: 50px;
+    border: none;
+    font-weight: 900;
+}

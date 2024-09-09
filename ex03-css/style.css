@@ -1,0 +1,74 @@
+body{
+    width: 500px;
+    color: #231900;
+    padding: 30px;
+}
+
+#container{
+    background-color: #18071B;
+    padding: 20px;
+    width: 500px;
+}
+
+h1{
+    font-size: 2.3em;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 0;
+    margin-top: 40px;
+}
+#secao{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.75em;
+    color: #FFCC00;
+    letter-spacing: 0.25em;
+    margin-top: auto;
+    text-transform: uppercase;
+}
+
+hr{
+    border: 2.5px solid white;
+}
+
+#link{
+    font-family: "Vollkorn", serif;
+    font-weight: 400;
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: #FFCC00;
+    text-decoration-thickness:1px ;
+    text-underline-offset: 8px;
+}
+
+#texto{
+    text-align: justify;
+    padding: 40px;
+    padding-right: 0;
+    padding-bottom: 0;
+}
+
+p{
+    font-family: "Vollkorn", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.1em;
+    color: white;
+}
+
+button{
+    background-color: #FFCC00;
+    color: #2F2032;
+    width: 150px;
+    height: 50px;
+    border: none;
+    font-weight: 800;
+    margin-top: 50px;
+    padding-bottom: 0;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
