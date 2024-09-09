@@ -25,6 +25,7 @@ h2{
     margin-top: 0;
     margin-bottom: 1em;
     line-height: 1.25;
+    text-transform: uppercase;
 }
 
 #container{
