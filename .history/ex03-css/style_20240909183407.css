@@ -2,7 +2,6 @@ body{
     width: 500px;
     color: #231900;
     padding: 30px;
-    font-size: 16px;
 }
 
 #container{
@@ -38,7 +37,7 @@ p{
     font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 0.6em;
+    font-size: 06em;
     color: #FFCC00;
     letter-spacing: 0.25em;
     margin-top: auto;
@@ -61,7 +60,7 @@ button{
     background-color: #FFCC00;
     color: #2F2032;
     width: 150px;
-    height: 35px;
+    height: 30px;
     border: none;
     font-size: 0.7em;
     font-weight: 700;

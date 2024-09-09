@@ -2,24 +2,23 @@ body{
     width: 500px;
     color: #231900;
     padding: 30px;
-    font-size: 16px;
 }
 
 #container{
     background-color: #18071B;
     padding: 20px;
+    width: 500px;
 }
 
 h1{
-    font-size: 2.2em;
+    font-size: 2.3em;
     font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 700;
     color: white;
-    padding-bottom: 5px;
+    margin-bottom: 0;
     margin-top: 40px;
-    border-bottom: 5px solid white;
-    transform: scale(1,1.25);
+    text-decoration: underline;
 }
 p{
     text-align: justify;
@@ -29,21 +28,19 @@ p{
     font-family: "Vollkorn", serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 1em;
+    font-size: 1.1em;
     color: white;
 }
 
 #secao{
-    padding: 0;
     font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 0.6em;
+    font-size: 0.75em;
     color: #FFCC00;
     letter-spacing: 0.25em;
     margin-top: auto;
     text-transform: uppercase;
-    transform: scale(1,1.5);
 }
 
 #link{
@@ -53,23 +50,19 @@ p{
     text-decoration: underline;
     text-decoration-color: #FFCC00;
     text-decoration-thickness:1px ;
-    text-underline-offset: 6px;
+    text-underline-offset: 8px;
 }
 
 button{
-    display: block;
     background-color: #FFCC00;
     color: #2F2032;
     width: 150px;
-    height: 35px;
+    height: 50px;
     border: none;
-    font-size: 0.7em;
-    font-weight: 700;
+    font-weight: 800;
     margin-top: 0px;
+    padding-bottom: -1px;
     font-family: "Roboto", sans-serif;
     text-transform: uppercase;
     text-align: center;
-    margin-bottom: 0px;
-    transform: scale(1,1.25);
-    letter-spacing: 1px;
 }

@@ -2,7 +2,6 @@ body{
     width: 500px;
     color: #231900;
     padding: 30px;
-    font-size: 16px;
 }
 
 #container{
@@ -61,7 +60,7 @@ button{
     background-color: #FFCC00;
     color: #2F2032;
     width: 150px;
-    height: 35px;
+    height: 30px;
     border: none;
     font-size: 0.7em;
     font-weight: 700;
